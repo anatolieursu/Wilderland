@@ -87,6 +87,7 @@ body {
         width: 70%;
         margin-top: 0;
         margin-top: 30px;
+        cursor: pointer;
     }
     .continut-div {
         background-color: rgb(84, 129, 84);
@@ -106,6 +107,7 @@ body {
         background-color: rgb(144, 174, 93);
         border-width: 10px;
         border-color: green;
+        cursor: pointer;
     }
     .repr_img {
         width: 90%;
