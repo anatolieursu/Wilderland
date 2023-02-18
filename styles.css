@@ -30,6 +30,7 @@ body {
     width: 16%;
     margin-top: 0;
     margin-top: 20px;
+    cursor: pointer;
 }
 .continut-div {
     background-color: rgb(84, 129, 84);
@@ -42,13 +43,14 @@ body {
 }
 .buttons-interacte {
     padding: 15px 10px;
-    font-size: 50px;
+    font-size: 75px;
     font-family: 'DynaPuff', cursive;
     margin-bottom: 15px;
     border-radius: 10px;
     background-color: rgb(144, 174, 93);
     border-width: 10px;
     border-color: green;
+    cursor: pointer;
 }
 .repr_img {
     width: 60%;
@@ -116,4 +118,40 @@ body {
         padding: 0;
         margin-bottom: 30px;
     }
+}
+.contact-div {
+    background-color: rgb(100, 140, 100);
+    width: 90%;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+}
+.contact-text {
+    font-size: 40px;
+}
+.form-control {
+    font-size: 30px;
+    border-radius: 3px;
+    margin-top: 4px;
+    border-color: green;
+    border-width: 5px;
+    background-color: rgb(179, 245, 179);
+}
+.btn {
+    font-size: 240%;
+    text-align: center;
+    margin-top: 5px;
+    padding: 10px 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(68, 158, 68);
+    color: white;
+    border-width: 3px;
+    border-radius: 4px;
+}
+.btn:hover {
+    background-color: rgb(148, 237, 148);
+    color: black;
 }
