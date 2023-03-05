@@ -59,6 +59,9 @@ body {
     padding: 0;
     margin-bottom: 30px;
 }
+.buttons-interacte:hover {
+    padding: 20px 10px;
+}
 @media only screen and (max-width: 851px) {
     .bck1 {
         background-color: rgb(100, 140, 100);
